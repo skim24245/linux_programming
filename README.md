@@ -8,15 +8,15 @@
 
 ### Apache와 Tomcat 연동, webserver활용 및 app에 따른 요청 분배 동영상
 
-<iframe width="780" height="604" src="https://youtu.be/sMyrGQYc3zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="780" height="604" src="https://www.youtube.com/embed/sMyrGQYc3zs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
 ### Oracle Weblogic 설치 및 App deploy 동영상
 
-<iframe width="780" height="604" src="https://youtu.be/AO3lBCUzkIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="780" height="604" src="https://www.youtube.com/embed/AO3lBCUzkIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Google Cloud Platform Computer engine 위에서 Apache-Tomcat  설치, 연동, App deploy 동영상
-<iframe width="780" height="604" src="https://youtu.be/OrQqcFWRHuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="780" height="604" src="https://www.youtube.com/embed/OrQqcFWRHuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### 힘들지만 극복한점
